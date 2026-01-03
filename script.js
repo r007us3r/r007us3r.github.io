@@ -2,8 +2,8 @@
 // YOUTUBE API CONFIGURATION
 // ===========================================
 const YOUTUBE_CONFIG = {
-    API_KEY: 'YOUR_API_KEY_HERE', // ⚠️ REPLACE THIS WITH YOUR ACTUAL API KEY
-    CHANNEL_ID: 'AIzaSyBbg_EAeR_76f27zzvvu-jMS6mKhZLYh30',
+    API_KEY: 'AIzaSyBbg_EAeR_76f27zzvvu-jMS6mKhZLYh30',
+    CHANNEL_ID: 'UCMq4uUwcWnYgfe3z5w3Kt7A',
     CACHE_DURATION: 300000, // Cache data for 5 minutes (300000ms)
     USE_LIVE_API: true // Set to false to use manual data instead
 };
